@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Gerador_Tags">
+    <file>Avitech.png</file>
+    <file>Avitech_m.png</file>
+  </qresource>
+</RCC>
