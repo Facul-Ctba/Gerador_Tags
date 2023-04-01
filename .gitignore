@@ -236,4 +236,8 @@ venv_new/share/man/man1/ipython.1
 venv_new/share/man/man1/ttx.1
 Prj 80-11.xlsx
 Teste.xlsx
+<<<<<<< HEAD
 *.XLSX
+=======
+*.xlsx
+>>>>>>> 277400a2f3482f5385ae466f3320bc3e637918a5
